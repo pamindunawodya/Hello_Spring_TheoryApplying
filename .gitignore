@@ -1,0 +1,11 @@
+# Project exclude paths
+/BeanScope/target/
+/Configuration/target/
+/DI_Spring/target/
+/FullMode_VS_LightMode/target/
+/JavaEnvironment/target/
+/MappingSpec/target/
+/out/
+/RunTimeValueInjection/target/
+/Spring_MVC/target/
+/SpringLifeCycle/target/
